@@ -1,0 +1,17 @@
+{
+    "name": "azatakmyradov/soap",
+    "autoload": {
+        "psr-4": {
+            "Soap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azat",
+            "email": "azat@rebdev.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
